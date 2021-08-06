@@ -1,16 +1,3 @@
-# bpc_test
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Тестовый пользователь : orlov@mail.ru/qqqq34
+скриншот базы данных
+![image](https://user-images.githubusercontent.com/48545570/128580165-eb641d07-5a39-447c-b41c-48bf8ddb36c8.png)
